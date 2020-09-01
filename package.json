@@ -1,0 +1,25 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morphydidius/hexlet-jest.git"
+  },
+  "author": "mdidius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morphydidius/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/morphydidius/hexlet-jest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  }
+}
