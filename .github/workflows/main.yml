@@ -15,4 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: jest check
-        run: npx jest
+        run: 
+          npm i
+          npx jest
